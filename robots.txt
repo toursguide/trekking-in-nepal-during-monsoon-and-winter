@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://trekking-in-nepal-during-monsoon.netlify.app/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
